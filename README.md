@@ -9,5 +9,7 @@
     <li>Create a DataFrame from multiple JSON files in multiple directories.</li>
     <li>Deal with complex data structures such as arrays in JSON documents.</li>
     <li>Provide insights on the created DataFrames.</li>
-</ul>    
+</ul>
+</br>
+<div>IMPORTANT: use the file <em>nbviewer_accidents_of_london.md</em> to view the notebook correctly. The notebook contains some geopy maps that can not be correctly seen in Github. The file <em>Accidents of London 2019 - Analysis.ipynb</em> contains the original notebook if needed.</div>
 </p>
