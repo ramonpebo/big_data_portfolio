@@ -5,6 +5,6 @@
 </br>
 <ul>
     <li>Creation of ML pipeline in order to predict the amount of bikes that are going to be rented during a specific hour.</li>
-    <li>Creation of a user interace for thihs ML pipeline using Streamlit.</li>
+    <li>Creation of a user interface for this ML pipeline using Streamlit.</li>
 </ul>
 </p>
