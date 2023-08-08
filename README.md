@@ -4,6 +4,7 @@
 <div>This is a repository with all the Data Science projects I have developed. Please, do not hesitate to take a look if something seems interesting to you. I hope you find it insighful and you are able to learn something interesting.</div>
 </br>
 <div>Current projects on the repository:</div>
+</br>
 <ul>
     <li>Accidents of London 2019 - Analysis - PySpark</li>
     <li>Bike Sharing - Machine Learning - Scikit Learn & Streamlit</li>
